@@ -1,8 +1,8 @@
-# webpack-at-war-plugin
+# webpack-at-war
 
 ## Usage
 ```
-const WarPlugin = require('webpack-at-war-plugin');
+const WarPlugin = require('webpack-at-war');
 const package = require('./package.json');
 
 plugins: [

@@ -1,6 +1,6 @@
 {
   "name": "webpack-at-war",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pack outputPath contents to Java Web Archive",
   "main": "index.js",
   "repository": {
